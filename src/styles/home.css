@@ -1,0 +1,11 @@
+*{
+    text-align: center;
+}
+body{
+    background-image: url('../images/pexels-photo-125510.jpeg') ;
+    background-repeat: no-repeat;
+    background-size: 1450px 700px;
+    background-size:  cover;
+
+
+}

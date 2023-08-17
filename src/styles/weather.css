@@ -1,0 +1,67 @@
+.w{
+    display:flex;
+    justify-content: center;
+    margin: 20px 30px;
+    justify-content: space-evenly;
+    padding-top: 23px;
+}
+/* *{
+    background-color: rgb(156, 245, 215);
+} */
+
+h1{
+    font-size: 46px;
+    color: rgb(42, 44, 44);
+}
+input{
+    background-color: aliceblue;
+    text-decoration: none;
+    border:paleturquoise;
+    border-radius: 5px;
+    font-size: 26px;
+    margin-bottom: 20px;
+        padding: 10px 20px ;
+}
+input:hover{
+    background-color: rgb(206, 231, 243);
+}
+img{
+    border-radius: 40px;
+}
+p{
+    color: rgb(33, 33, 34);
+    font-size: 23px;
+    margin-bottom: 3px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.name{
+    color: antiquewhite;
+}
+
+button{
+    margin-top: 10px;
+    font-size: 24px;
+    border-radius: 8px;
+    padding: 4px 30px;
+
+}
+button:hover{
+    background-color: rgb(93, 146, 231);
+}
+.w2{
+    padding-right: 100px;
+    padding-top: 150px;
+}
+.name{
+    color: black;
+    margin-bottom: 10PX;
+    }
+    .cont{
+        background-color: rgb(190, 234, 240);
+        border-radius: 40px;
+        font-size: 30PX;
+        padding: 30px ;
+        opacity: 0.7;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    }
